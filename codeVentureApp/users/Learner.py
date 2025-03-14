@@ -1,6 +1,6 @@
-from codeVentureApp.users.UserAccount import UserAccount
-from codeVentureApp.utilities.ProgressTracker import ProgressTracker
-from codeVentureApp.utilities.Rank import Rank
+from users.UserAccount import UserAccount
+from utilities.ProgressTracker import ProgressTracker
+from utilities.Rank import Rank
 
 
 class Learner(UserAccount):

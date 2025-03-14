@@ -1,4 +1,4 @@
-from codeVentureApp.users.UserAccount import UserAccount
+from users.UserAccount import UserAccount
 
 
 class Parent(UserAccount):

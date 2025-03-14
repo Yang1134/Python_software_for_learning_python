@@ -3,12 +3,12 @@ import tkinter as tk
 from tkinter import messagebox
 import customtkinter
 
-from codeVentureApp.users.Administrator import Administrator
-# from codeVentureApp.SystemStorageDraft import SystemStorage
-from codeVentureApp.users.Educator import Educator
-from codeVentureApp.users.Learner import Learner
-from codeVentureApp.users.Parent import Parent
-from codeVentureApp.SystemStorage import SystemStorage
+from users.Administrator import Administrator
+# from SystemStorageDraft import SystemStorage
+from users.Educator import Educator
+from users.Learner import Learner
+from users.Parent import Parent
+from SystemStorage import SystemStorage
 
 
 class RegisterFrame(customtkinter.CTkFrame):

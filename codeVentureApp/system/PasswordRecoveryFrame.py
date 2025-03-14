@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 import customtkinter
 
-from codeVentureApp.SystemStorage import SystemStorage
+from SystemStorage import SystemStorage
 
 
 class PasswordRecoveryFrame(customtkinter.CTkFrame):

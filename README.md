@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 git clone https://github.com/Yang1134/Python_software_for_learning_python
 ```
 ## Getting Started
-To launch CodeVenture, open the cloned file in your PyCharm, go to the CreateFirstAdministrator.py and run it, then go to main.py file and run the code.
+To launch CodeVenture, open the cloned file in your PyCharm, go to the CreateFirstAdministrator.py and run it to create the first admin account, then go to main.py file and run the code.
 Follow the on-screen instructions to create a new learner account and begin your adventure in the world of coding!
 
 ## Features:

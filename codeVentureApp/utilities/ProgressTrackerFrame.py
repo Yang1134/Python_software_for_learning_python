@@ -1,7 +1,7 @@
 import customtkinter
 import tkinter as tk
 
-from codeVentureApp.SystemStorage import SystemStorage
+from SystemStorage import SystemStorage
 
 
 class ProgressTrackerFrame(customtkinter.CTkFrame):

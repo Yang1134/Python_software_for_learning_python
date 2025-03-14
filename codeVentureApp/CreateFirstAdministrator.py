@@ -1,12 +1,12 @@
-from codeVentureApp.users.Administrator import Administrator
-from codeVentureApp.SystemStorage import SystemStorage
+from users.Administrator import Administrator
+from SystemStorage import SystemStorage
 
 # Create a SystemStorage object
 system_storage = SystemStorage()
 
 # Define the admin's information
-admin_username = "admin4"
-admin_password = "admin4"
+admin_username = "admin5"
+admin_password = "admin5"
 admin_firstname = "Admin Firstname123456"
 admin_lastname = "Admin Lastname123456"
 admin_role = "Admin"  # Make sure the role is "Admin"

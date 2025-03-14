@@ -3,11 +3,11 @@ from tkinter import messagebox
 import customtkinter
 import tkinter as tk
 
-from codeVentureApp.SystemStorage import SystemStorage
-from codeVentureApp.users.Administrator import Administrator
-from codeVentureApp.users.Educator import Educator
-from codeVentureApp.users.Learner import Learner
-from codeVentureApp.users.Parent import Parent
+from SystemStorage import SystemStorage
+from users.Administrator import Administrator
+from users.Educator import Educator
+from users.Learner import Learner
+from users.Parent import Parent
 
 
 class AdminFrame(customtkinter.CTkFrame):
@@ -34,7 +34,7 @@ class AdminFrame(customtkinter.CTkFrame):
                                               corner_radius=0
                                               )
         self.nav_bar.place(relx=0, rely=0, relwidth=0.2, relheight=1)
-
+        
         logo_path = "images/cv.png"
         self.logo = tk.PhotoImage(file=logo_path)
 

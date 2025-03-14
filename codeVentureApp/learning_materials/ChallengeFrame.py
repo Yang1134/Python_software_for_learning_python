@@ -4,8 +4,8 @@ from tkinter import messagebox
 import customtkinter
 import tkinter as tk
 
-from codeVentureApp.SystemStorage import SystemStorage
-from codeVentureApp.learning_materials.CompletedChallenge import CompletedChallenge
+from SystemStorage import SystemStorage
+from learning_materials.CompletedChallenge import CompletedChallenge
 
 
 class ChallengeFrame(customtkinter.CTkFrame):

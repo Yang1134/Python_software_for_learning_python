@@ -1,15 +1,15 @@
 import sqlite3
 from datetime import datetime
 
-from codeVentureApp.learning_materials.Challenge import Challenge
-from codeVentureApp.learning_materials.CompletedChallenge import CompletedChallenge
-from codeVentureApp.learning_materials.Module import Module
-from codeVentureApp.learning_materials.Quiz import Quiz
-from codeVentureApp.learning_materials.Tutorial import Tutorial
-from codeVentureApp.users.Administrator import Administrator
-from codeVentureApp.users.Educator import Educator
-from codeVentureApp.users.Learner import Learner
-from codeVentureApp.users.Parent import Parent
+from learning_materials.Challenge import Challenge
+from learning_materials.CompletedChallenge import CompletedChallenge
+from learning_materials.Module import Module
+from learning_materials.Quiz import Quiz
+from learning_materials.Tutorial import Tutorial
+from users.Administrator import Administrator
+from users.Educator import Educator
+from users.Learner import Learner
+from users.Parent import Parent
 
 
 class SystemStorage:  # change to system storage later

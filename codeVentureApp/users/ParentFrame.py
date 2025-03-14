@@ -3,8 +3,8 @@ import customtkinter
 import tkinter as tk
 from tkinter import messagebox
 
-from codeVentureApp.utilities.ProgressTrackerFrame import ProgressTrackerFrame
-from codeVentureApp.SystemStorage import SystemStorage
+from utilities.ProgressTrackerFrame import ProgressTrackerFrame
+from SystemStorage import SystemStorage
 
 
 class ParentFrame(customtkinter.CTkFrame):

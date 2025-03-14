@@ -1,14 +1,14 @@
-from codeVentureApp.system.PasswordRecoveryFrame import PasswordRecoveryFrame
-from codeVentureApp.users.AdminFrame import AdminFrame
-from codeVentureApp.users.EducatorFrame import EducatorFrame
-from codeVentureApp.users.LearnerFrame import LearnerFrame
-from codeVentureApp.SystemStorage import SystemStorage
+from system.PasswordRecoveryFrame import PasswordRecoveryFrame
+from users.AdminFrame import AdminFrame
+from users.EducatorFrame import EducatorFrame
+from users.LearnerFrame import LearnerFrame
+from SystemStorage import SystemStorage
 
 import tkinter as tk
 from tkinter import messagebox
 import customtkinter
 
-from codeVentureApp.users.ParentFrame import ParentFrame
+from users.ParentFrame import ParentFrame
 
 
 class LoginFrame(customtkinter.CTkFrame):

@@ -1,7 +1,7 @@
-from codeVentureApp.users.Educator import Educator
-from codeVentureApp.users.Learner import Learner
-from codeVentureApp.users.Parent import Parent
-from codeVentureApp.users.UserAccount import UserAccount
+from users.Educator import Educator
+from users.Learner import Learner
+from users.Parent import Parent
+from users.UserAccount import UserAccount
 
 
 class Administrator(UserAccount):

@@ -2,11 +2,11 @@ import customtkinter
 import tkinter as tk
 from tkinter import messagebox
 
-from codeVentureApp.learning_materials.ModulesFrame import ModuleFrame
-from codeVentureApp.learning_materials.ChallengeFrame import ChallengeFrame
-from codeVentureApp.utilities.ProgressTrackerFrame import ProgressTrackerFrame
-from codeVentureApp.SystemStorage import SystemStorage
-from codeVentureApp.utilities.Rank import Rank
+from learning_materials.ModulesFrame import ModuleFrame
+from learning_materials.ChallengeFrame import ChallengeFrame
+from utilities.ProgressTrackerFrame import ProgressTrackerFrame
+from SystemStorage import SystemStorage
+from utilities.Rank import Rank
 
 
 class LearnerFrame(customtkinter.CTkFrame):

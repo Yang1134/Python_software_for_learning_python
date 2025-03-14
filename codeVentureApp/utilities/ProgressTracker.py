@@ -1,5 +1,5 @@
 
-from codeVentureApp.utilities.Rank import Rank
+from utilities.Rank import Rank
 
 
 class ProgressTracker:
