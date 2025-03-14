@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 git clone https://github.com/iliyxna/code-venture1056.git
 ```
 ## Getting Started
-To launch CodeVenture, open the cloned file in your PyCharm, go to the main.py file and run the code.
+To launch CodeVenture, open the cloned file in your PyCharm, go to the CreateFirstAdministrator.py and run it, then go to main.py file and run the code.
 Follow the on-screen instructions to create a new learner account and begin your adventure in the world of coding!
 
 ## Features:
@@ -49,13 +49,3 @@ Scores"
 24. Parental progress Monitoring View
 25. Admin Administrative Management View
 
-## Contact Information
-Email:
-* isam0004@student.monash.edu
-* nahm0035@student.monash.edu
-* wtan0106@student.monash.edu
-* ppal0006@student.monash.edu
-
-GitHub:
-* github.com/iliyxna
-* github.com/nurindamia123
