@@ -35,7 +35,7 @@ class AdminFrame(customtkinter.CTkFrame):
                                               )
         self.nav_bar.place(relx=0, rely=0, relwidth=0.2, relheight=1)
 
-        logo_path = "./images/cv.png"
+        logo_path = "images/cv.png"
         self.logo = tk.PhotoImage(file=logo_path)
 
         logo_label = tk.Label(self.nav_bar,
