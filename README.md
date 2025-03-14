@@ -13,7 +13,7 @@ Before you can start your journey with CodeVenture, make sure you have the follo
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/iliyxna/code-venture1056.git
+git clone https://github.com/Yang1134/Python_software_for_learning_python
 ```
 ## Getting Started
 To launch CodeVenture, open the cloned file in your PyCharm, go to the CreateFirstAdministrator.py and run it, then go to main.py file and run the code.
